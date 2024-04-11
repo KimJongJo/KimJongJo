@@ -5,7 +5,7 @@
 
 ### 📔📒📚
 <p>
- <a href="https://velog.io/@desk1614/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+ <a href="https://velog.io/@desk1614/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
  <a href="https://github.com/KimJongJo" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
@@ -23,6 +23,12 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </p>
+<br>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimJongJo&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=KimJongJo&show_icons=true">
+
  
 </div>
 
