@@ -1,6 +1,8 @@
 <div align="center">
  
- ### ✍ Hello~ I'm KimJongJo 🙂
+ ### ✍ Welcome to my github 🙂
+ ### I'm KimJongJo
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=GiveMeTheBell🛎&fontSize=90" />
 
 
 ### 📔📒📚
