@@ -2,7 +2,7 @@
  
  ### ✍ Welcome to my github 🙂
  ### I'm KimJongJo
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=GiveMeTheBell🛎&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=giveMeTheBell🛎&fontSize=90" />
 
 
 ### 📔📒📚
