@@ -27,10 +27,13 @@
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
- <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+ <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+ <img src="https://img.shields.io/badge/JSP-000000?style=for-the-badge&logo=JSP&logoColor=white">
   <img src="https://img.shields.io/badge/mybatis-3FE669?style=for-the-badge&logo=mybatis&logoColor=white">
   <img src="https://img.shields.io/badge/JPA-39BE6B?style=for-the-badge&logo=JPA&logoColor=white">
+ <img src="https://img.shields.io/badge/QueryDSL-008FC7?style=for-the-badge&logo=QueryDSL&logoColor=white">
+  <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
 
  
 </p>
